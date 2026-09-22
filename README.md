@@ -52,7 +52,7 @@ The objective of this project is to understand:
 
 ## 📊 Dataset
 
-The dataset contains SEO keyword-level information including metrics such as:
+The dataset contains SEO keyword-level information including:
 
 - Keyword
 - Topic
@@ -162,22 +162,23 @@ The analysis helps identify:
 SEO-Keyword-Analytics/
 │
 ├── dashboard/
-│   └── SEO Keyword Analytics Power BI Dashboard
+│   ├── README.md
+│   └── SEO_Keyword_Analytics.pbix
 │
 ├── screenshots/
-│   ├── 01-executive-overview.png
-│   └── README.md
-│
-├── dataset/
-│   └── SEO keyword dataset
-│
-├── sql/
-│   └── SQL analysis scripts
+│   ├── README.md
+│   └── 01-executive-overview.png
 │
 ├── python/
-│   └── Python analysis and ML scripts
+│   ├── README.md
+│   └── SEO_Keyword_Analysis.ipynb
 │
 ├── documentation/
-│   └── Project documentation
+│   ├── README.md
+│   └── SEO_Keyword_Data_Model.png
+│
+├── sql/
+│   ├── README.md
+│   └── SEO_Keyword_Analysis.sql
 │
 └── README.md
